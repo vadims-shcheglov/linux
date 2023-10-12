@@ -1,0 +1,18 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_face": "Cascadia Mono",
+	"match_brackets": false,
+	"match_selection": false,
+	"highlight_line_number": true,
+	"highlight_gutter": false,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"mini_diff": true,
+	"match_tags": false,
+	"font_options":
+		[
+			"no_italic",
+			"no_bold"
+		],
+}
