@@ -12,3 +12,5 @@
 
 ;; Global keyboard shortcuts
 (global-set-key (kbd "C-c a") (lambda() (interactive)(find-file "~/.emacs")))
+(global-set-key (kbd "C-c q") (lambda() (interactive)(find-file "~/emacs/init.el")))
+(global-set-key (kbd "C-c w") (lambda() (interactive)(find-file "~/source/Makefile")))
