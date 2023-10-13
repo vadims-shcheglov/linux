@@ -14,3 +14,4 @@
 (global-set-key (kbd "C-c a") (lambda() (interactive)(find-file "~/.emacs")))
 (global-set-key (kbd "C-c q") (lambda() (interactive)(find-file "~/emacs/init.el")))
 (global-set-key (kbd "C-c w") (lambda() (interactive)(find-file "~/source/Makefile")))
+(global-set-key (kbd "C-c e") (lambda() (interactive)(find-file "~/source/main.c")))
