@@ -1,3 +1,7 @@
+(add-to-list 'load-path(expand-file-name "~/emacs"))
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(require 'init)
+
 ;; Defines global variables that are later used to customize and set
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
